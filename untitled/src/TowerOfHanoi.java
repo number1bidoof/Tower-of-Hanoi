@@ -163,7 +163,7 @@ public class TowerOfHanoi {
         printStatistics(n);
 
         // Test with different numbers of disks
-        n = 4;
+        //n = 4;
         System.out.println("\n\n=== Try with " + n + " disks ===");
         moveCount = 0;
         initializeTowers(n);
